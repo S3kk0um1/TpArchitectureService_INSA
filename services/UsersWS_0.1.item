@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:Services="http://www.talend.org/Services">
+  <Services:ServiceConnection xmi:id="_RVOQcbtWEe68PvMoTDGMQw" id="_RVOQcLtWEe68PvMoTDGMQw" servicePort="_QIpHkLthEe68PvMoTDGMQw"/>
+  <Services:ServicePort xmi:id="_QIpHkLthEe68PvMoTDGMQw" name="UsersWSPortType" id="_RVevILtWEe68PvMoTDGMQw" serviceOperation="_QIpHkbthEe68PvMoTDGMQw"/>
+  <Services:ServiceOperation xmi:id="_QIpHkbthEe68PvMoTDGMQw" label="getUsersbyNom-getUserbySOAP" name="getUsersbyNom" id="_Q81BwLtaEe68PvMoTDGMQw" referenceJobId="_QdlPELtcEe68PvMoTDGMQw"/>
+</xmi:XMI>

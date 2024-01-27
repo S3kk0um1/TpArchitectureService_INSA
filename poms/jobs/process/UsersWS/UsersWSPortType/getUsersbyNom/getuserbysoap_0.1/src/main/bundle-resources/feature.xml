@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="getUserbySOAP-feature">
+    <feature name="getUserbySOAP-feature" version="0.1.0">
+        <bundle>mvn:org.example.tp.job/getUserbySOAP/0.1.0</bundle>
+        <config name="getUserbySOAP.talendcontext.Default" override="true">
+</config>
+    </feature>
+</features>
